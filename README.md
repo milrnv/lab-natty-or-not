@@ -1,51 +1,23 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# COMO AS IA'S PODEM AJUDAR NA CRIAÇÃO DE PERSONAGENS DE RPG
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto tem como objetivo criar um gerador de fichas de RPG simples, onde a IA vai criar atributos como força, inteligência, agilidade e personalidade de um personagem aleatoriamente com base em categorias pré-definidas.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+[ChatGPT](https://chatgpt.com): para roteirização e revisão.
+[Freepik](https://br.freepik.com): para a criação dos avatares utilizados.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+1. Pesquisei no chat gpt tipos de atributos e características para adicionar aos personagens.
+2. Procurei no Freepik imagens que se relacionavam com as características que eu escolhi.
+3. Comecei criando o backend em Python
+4. Fiz o frontend em HTML
+5. Terminei criando o estilo em CSS
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+[Ficha de Criação de Personagem](http://127.0.0.1:5000)
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Este projeto oferece uma maneira simples de gerar fichas de RPG aleatórias, sem a necessidade de uma IA avançada ou de APIs externas como a OpenAI. A IA aqui é usada para gerar aleatoriamente os atributos e a personalidade dos personagens, tornando o projeto interessante e fácil de implementar no Windows. Também abre uma ampla variedade de possibilidades de implantação de novas características para tornar a história mais enriquecedora, como, por exemplo: pode-se adicionar uma descrição gerada aleatoriamente ou com base nos atributos (ex: se o personagem tem alta inteligência, pode ter uma descrição de "um mago sábio").
